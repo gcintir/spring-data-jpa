@@ -1,2 +1,2 @@
 # spring-data-jpa
-Spring Data JPA based database operations
+Spring Data JPA based database operations & integration test
